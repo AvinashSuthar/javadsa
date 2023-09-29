@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="a8617a02-5a99-4d77-893b-497a06bb6f92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSAJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/mai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FindEvenNoOfDigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchIn2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SearchInStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/binary_search.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LinearSearchArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,21 +32,23 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2VzKamcPg1wjWafJTqSM44b8eaf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "E:/Programming/javadsabootcamp/myjava"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Programming/javadsabootcamp/myjava&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.MultiAL">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+}</component>
+  <component name="RunManager" selected="Application.binary_search">
+    <configuration name="LinearSearchArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinearSearchArray" />
       <module name="DSAJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -63,8 +67,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="mai" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="mai" />
+    <configuration name="SearchIn2DArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchIn2DArray" />
+      <module name="DSAJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SearchInStrings" />
+      <module name="DSAJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="binary_search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="binary_search" />
       <module name="DSAJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,9 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.binary_search" />
+        <item itemvalue="Application.SearchIn2DArray" />
+        <item itemvalue="Application.SearchInStrings" />
+        <item itemvalue="Application.LinearSearchArray" />
         <item itemvalue="Application.MultiAL" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.mai" />
       </list>
     </recent_temporary>
   </component>
